@@ -17,4 +17,4 @@ def run():
         print ("NO es palíndromo")
 
 if __name__ == '__main__':
-    run()
+    run() 

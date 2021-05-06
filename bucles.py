@@ -7,6 +7,6 @@ def run():
         contador = contador + 1
         potencia_2 = 2**contador
 
-
+ 
 if __name__ == '__main__':
     run()
